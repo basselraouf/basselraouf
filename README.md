@@ -1,12 +1,15 @@
 <h1 align="center">Welcome To My GitHub Profile 👋🌎</h1>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&pause=1000&color=E97536&center=true&vCenter=true&width=435&lines=A+Software+Engineer+!;A+Backend++Laravel++Developer+From+Egypt.;Always+Learn+New+Things+!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&pause=1000&color=E97536&center=true&vCenter=true&width=435&lines=A+Software+Engineer!;Backend+Laravel+Developer.;Always+learning+new+things!" alt="Typing SVG" />
+  </a>
 </p>
+
 
 <img align="right" src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width =20%>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=basselraouf&label=Profile%20views&color=orange&style=flat" alt="ahmedshaaban" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=basselraouf&label=Profile%20views&color=orange&style=flat" alt="basselraouf" /> </p>
 
 - 🌱 I’m currently learning **Vue js**
 
