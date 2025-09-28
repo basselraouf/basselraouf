@@ -16,6 +16,12 @@
 
 ## 🛠 &nbsp;Languages and Tools :
 <div align="left">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" height="30" alt="windows11 logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" height="30" alt="windows11 logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" height="30" alt="windows11 logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -43,6 +49,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" height="30" alt="postman logo"  />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="12" />
 </div>
 
 ###
